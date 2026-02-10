@@ -1,6 +1,6 @@
-sawaddee = int(input())
+numm = int(input())
 
-if(sawaddee == 0):
+if(numm == 0):
     print("This number is equal to zero.")
 else:
     print("This number is different from zero.")
