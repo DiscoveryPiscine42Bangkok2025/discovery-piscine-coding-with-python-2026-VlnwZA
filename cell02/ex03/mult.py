@@ -8,4 +8,4 @@ if num < 0:
 elif num > 0:
     print("This result is positive.") 
 else:
-    print("This result is positive and negative.")  # ถ้าเป็นศูนย์
+    print("This result is positive and negative.")  
