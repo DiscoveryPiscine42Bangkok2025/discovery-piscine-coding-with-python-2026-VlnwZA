@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 numm = int(input())
 
 if(numm == 0):

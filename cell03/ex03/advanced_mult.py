@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 for n in range(0,11):
     i = 0
     result = ""
