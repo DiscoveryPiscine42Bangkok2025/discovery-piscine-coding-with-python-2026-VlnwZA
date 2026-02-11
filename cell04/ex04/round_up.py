@@ -1,4 +1,4 @@
-num = float(input())
+num = float(input("Give me a number: "))
 num1 = int(num)
 
 if(num1 / num ==1) :

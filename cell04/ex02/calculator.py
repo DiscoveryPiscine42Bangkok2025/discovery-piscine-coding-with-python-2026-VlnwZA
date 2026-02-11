@@ -4,5 +4,5 @@ print("Thank you!")
 
 print(f"{num1} + {num2} = {num1 + num2}")
 print(f"{num1} - {num2} = {num1 - num2}")
-print(f"{num1} / {num2} = {num1 // num2 if num2 != 0 else 'ใส่ศูนย์ทำพรื่อ'}")
+print(f"{num1} / {num2} = {num1 // num2 if num2 != 0 else 'ใส่ศูนย์ทำพรื่อมันจะหารยังไง'}")
 print(f"{num1} * {num2} = {num1 * num2}")

@@ -1,10 +1,10 @@
 word = input()
-i = 0
+x = 0
 check =""
-while i < len(word):
-    if(word[i] == word[i].upper()) :
-        check += word[i].lower()
+while x < len(word):
+    if(word[x] == word[x].upper()) :
+        check += word[x].lower()
     else :
-        check += word[i].upper()
-    i += 1
+        check += word[x].upper()
+    x += 1
 print(check)
