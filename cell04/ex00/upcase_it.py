@@ -1,2 +1,2 @@
-word = input("Give me a word: ")
-print(word.upper())
+text = input("Give me a words: ")
+print(text.upper())
