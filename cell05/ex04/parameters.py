@@ -4,5 +4,5 @@ import sys
 Message = len(sys.argv) -1
 print("Number of parameters :" ,Message)
 
-"initiation"
-"this" "is" "crazy" "there's" "everywhere!"
+#"initiation"
+#"this" "is" "crazy" "there's" "everywhere!"
